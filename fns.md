@@ -91,6 +91,10 @@
 
  - Arithmetic  operators  are  used  to  perform  mathematical  operations  like  addition,  subtraction,  Multiplication
  - Assume variable ‘_a’_ holds 10 and variable ‘_b_’ holds 20  then the following table shows the result of arithmetic operators.
+
+| Operator |Description  |Example
+|--|--|--|
+| == Equal	 | If the values of two operands are equal, then the condition becomes true. |(a == b) is not true.
  
 |Operator|Description |	Example
 |--|--|--|--|
