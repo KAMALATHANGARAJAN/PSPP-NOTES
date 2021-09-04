@@ -94,7 +94,7 @@
 
 | Operator |Description  |Example
 |--|--|--|
-| == Equal	 | If the values of two operands are equal, then the condition becomes true. |(a == b) is not true.
+| + Addition	 | Adds values on either side of the operator. |a + b = 30
  
 |Operator|Description |	Example
 |--|--|--|--|
