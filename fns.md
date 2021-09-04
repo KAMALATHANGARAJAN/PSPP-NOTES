@@ -14,6 +14,7 @@
 
 [3.2. REPETITION STRUCTURE/LOOPING/ITERATIVE STATEMENTS](
 https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#32-repetition-structureloopingiterative-statements)
+
 [3.3. FRUITFUL FUNCTIONS: RETURN VALUES, PARAMETERS, LOCAL AND GLOBAL SCOPE, FUNCTION COMPOSITION, RECURSION](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#33-fruitful-functions-return-values-parameters-local-and-global-scope-function-composition-recursion)
 - [3.3.1. Functions](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#331-functions)
 - [3.3.2 Return Values](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#332return-values)
