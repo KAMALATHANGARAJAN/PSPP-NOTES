@@ -93,7 +93,7 @@
  - Assume variable ‘_a’_ holds 10 and variable ‘_b_’ holds 20  then the following table shows the result of arithmetic operators.
  
  
-| Operator | Description |	Example|
+| Operator | Description |	Example
 |--|--|--|--|
 | + Addition	| Adds values on either side of the operator.	| a + b = 30
 | -Subtraction	| Subtracts right hand operand from left hand operand.	| a – b = -10
