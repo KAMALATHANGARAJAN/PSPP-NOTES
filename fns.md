@@ -18,8 +18,7 @@ https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#32-repetition
 [3.3. FRUITFUL FUNCTIONS: RETURN VALUES, PARAMETERS, LOCAL AND GLOBAL SCOPE, FUNCTION COMPOSITION, RECURSION](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#33-fruitful-functions-return-values-parameters-local-and-global-scope-function-composition-recursion)
 - [3.3.1. Functions](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#331-functions)
 - [3.3.2 Return Values](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#332return-values)
-
--  [3.3.3 Function Arguments](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#333-function-arguments)
+- [3.3.3 Function Arguments](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#333-function-arguments)
 - [3.3.4. Scope of Variables](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#334-scope-of-variables)
 - [3.3.5. Function composition or Anonymous Functions](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#335-function-composition-or-anonymous-functions)
 - [3.3.6. Recursive Function](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#336-recursive-function)
