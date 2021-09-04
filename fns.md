@@ -7,7 +7,7 @@
 
 # Table of Contents
 [3.1. CONDITIONALS](#3.1.conditionals)
-# [3.1.2. OPERATORS](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#311-boolean-values-and-operators)
+	[3.1.2. OPERATORS](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#311-boolean-values-and-operators)
 
 
 
