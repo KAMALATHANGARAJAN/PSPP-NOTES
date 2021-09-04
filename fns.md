@@ -8,7 +8,10 @@
 # Table of Contents
 [3.1. CONDITIONALS](#3.1.conditionals)
 
-- [3.1.2. OPERATORS](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#311-boolean-values-and-operators)
+- [3.1.1 BOOLEAN VALUES AND OPERATORS:](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#311-boolean-values-and-operators)
+- [3.1.2. OPERATORS](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#312-operators)
+- [3.1.3 CONDITIONAL STATEMENTS](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#313conditional-statements)
+
 
 
 
