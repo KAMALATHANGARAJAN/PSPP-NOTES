@@ -6,9 +6,9 @@
 
 
 # Table of Contents
-[3.1. CONDITIONALs](#3.1.conditionals)
+[3.1. CONDITIONALS](#3.1.conditionals)
 
-[3.1.2. OPERATORS](#3.1.2.operators)
+	[3.1.2. OPERATORS](#3.1.2.operators)
 
 
 
