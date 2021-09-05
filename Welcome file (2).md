@@ -5,7 +5,8 @@
 # UNIT III CONTROL FLOW, FUNCTIONS
 **Conditionals: Boolean values and operators, conditional (if), alternative (if-else), chained conditional (if-elif-else); Iteration: state, while, for, break, continue, pass; Fruitful functions: return values, parameters, local and global scope, function composition, recursion; Strings: string slices, immutability, string functions and methods, string module; Lists as arrays. Illustrative programs: square root, gcd, exponentiation, sum an array of numbers, linear search, binary search**
 
-[https://www.memcode.com/courses/2294/learn](https://www.memcode.com/courses/2294/learn)  -50+ flashcards to review the contents of this unit.
+[Memcode flashcards](https://www.memcode.com/courses/2294/learn)  -50+ flashcards to review the contents of this unit.
+[Illustrative problems](https://replit.com/@Kamalav/GE8151-unit-programs#unit3/binary.py)
 
 # [](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#table-of-contents)                    Table of Contents
 
