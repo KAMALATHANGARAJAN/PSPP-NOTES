@@ -4,6 +4,7 @@
 
 # UNIT III CONTROL FLOW, FUNCTIONS
 **Conditionals: Boolean values and operators, conditional (if), alternative (if-else), chained conditional (if-elif-else); Iteration: state, while, for, break, continue, pass; Fruitful functions: return values, parameters, local and global scope, function composition, recursion; Strings: string slices, immutability, string functions and methods, string module; Lists as arrays. Illustrative programs: square root, gcd, exponentiation, sum an array of numbers, linear search, binary search**
+
 [https://www.memcode.com/courses/2294/learn](https://www.memcode.com/courses/2294/learn)  -50+ flashcards to review the contents of this unit.
 
 # [](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#table-of-contents)                    Table of Contents
@@ -43,7 +44,7 @@
 Execute and understand the [illustrative programs](https://replit.com/@Kamalav/GE8151-unit-programs#unit2/circulate.py) of unit 2.
 ## Post-Unit exercises
 Execute and understand the [illustrative programs](https://replit.com/@Kamalav/GE8151-unit-programs#unit3/exponent.py) of unit 3
-### KEY TERMS
+## KEY TERMS
 - **Operators** - _Operators_ are the constructs which can manipulate the value of operands.
 - **Control flow statements:** - *Control statements* in python are used to control the order of execution of the program based on the values and logic.
 - **Repetition Statements** - *Repetition statements* are called loops, and are used to repeat the same code multiple times in succession.
