@@ -32,10 +32,19 @@ https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#32-repetition
 - [3.4.5. Example Programs](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#345-example-programs)
 - [3.4.6. String functions and methods](https://github.com/KAMALATHANGARAJAN/PSPP-NOTES/blob/master/fns.md#346-string-functions-and-methods)
 
-
-
-
-
+## KEY TERMS
+#### Operators
+_Operators_ are the constructs which can manipulate the value of operands.
+#### **Control flow statements:** 
+ *Control statements* in python are used to control the order of execution of the program based on the values and logic.
+#### **Repetition Statements**
+*Repetition statements* are called loops, and are used to repeat the same code multiple times in succession.
+#### Functions
+A _function_ is a block of code which only runs when it is called.
+#### Fruitful functions
+The _functions_ which return any value are called as _fruitful functions_.
+#### Strings
+*Strings* are arrays of bytes representing Unicode characters.
 
 ## 3.1. CONDITIONALS:
 ### 3.1.1 BOOLEAN VALUES AND OPERATORS:
