@@ -369,7 +369,7 @@ Example: Python for Loop
 	    sum = sum+val 
 	print("The sum is", sum)
 
-### 3.2.2. ‘while’ LOOP:
+### 3.2.2. ‘while’ LOOP
 
 •	In while loop, test expression is checked first.
 •	The body of the loop is entered only if the test expression evaluates to True. After one iteration, the test expression is checked again. This process continues until the test_expression evaluates to False.
@@ -727,7 +727,7 @@ Syntax
 	print("Value of total : ", sum( 10, 20 ))
 	print("Value of total : ", sum( 20, 20 ))
 
-### 3.3.6. Recursive Function:
+### 3.3.6. Recursive Function
 
 •	Recursion is the process of the function call by itself.
 •	In Python, a function can call other functions. It is even possible for the function to call itself. These type of construct are termed as recursive functions.
@@ -932,7 +932,7 @@ Program that use different string methods
 	print(“count of o=”,str.count(‘o’ ))
 	print(“find of =”,str.find(“of”))
 
-### 3.4.5. Example Programs:**
+### 3.4.5. Example Programs**
 **1.	Traversing a string **
 	
 	message=”hello!” 
